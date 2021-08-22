@@ -1,1 +1,1 @@
-Use this folder for downloaded raw datasets. Note that if your datasets get too large you may need to store them locally.
+An example folder you might want to create for doing your work. You can create as many directories as you would like.
