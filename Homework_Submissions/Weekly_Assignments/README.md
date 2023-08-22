@@ -1,1 +1,1 @@
-Use this folder to submit your cheat sheets for grading
+Use this folder to submit your weekly assignments.
